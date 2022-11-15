@@ -1,0 +1,3 @@
+C:/Users/matei/OneDrive/Desktop/Noi sa fim sanatosi/PCLP - Seminar/Lab 5/cmake-build-debug/CMakeFiles/Lab_5.dir
+C:/Users/matei/OneDrive/Desktop/Noi sa fim sanatosi/PCLP - Seminar/Lab 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matei/OneDrive/Desktop/Noi sa fim sanatosi/PCLP - Seminar/Lab 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
